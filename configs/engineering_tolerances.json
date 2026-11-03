@@ -1,0 +1,16 @@
+{
+  "status": "project_defined_v1",
+  "displacement_unit": "mm",
+  "strain_unit": "dimensionless",
+  "residual_displacement_limit": 0.1,
+  "total_strain_limit": 0.03,
+  "plastic_strain_limit": 0.03,
+  "model_error_budget_displacement": 0.01,
+  "model_error_budget_strain": 0.005,
+  "simulation_discretization_error": null,
+  "measurement_error": null,
+  "requirements_source": "User-authorized project-defined thresholds; geometry-tolerance framework informed by GB/T 19804 and ISO 13920, numerical values are not taken from those standards",
+  "acceptance_metric": "Frozen-test p95 absolute error, separately for each welding order and core target",
+  "scope": "Internal simulation surrogate and decision development; fixed current geometry/material/support/cooling configuration",
+  "note": "Project limits are fixed design assumptions, not standards compliance or experimental qualification. Simulation and measurement budgets remain unknown; final engineering release is not established."
+}

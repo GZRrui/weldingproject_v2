@@ -1,0 +1,7 @@
+{
+  "current":{"current_A":210,"voltage_V":27.2,"ambient_C":80,"speed_m_s":0.006,"process_order":1},
+  "steps":{"current_A":5,"voltage_V":0.8,"ambient_C":10,"speed_m_s":0.0005},
+  "max_change":{"current_A":15,"voltage_V":3.2,"ambient_C":20,"speed_m_s":0.002},
+  "locked":{"ambient_C":80},
+  "orders":[1,2]
+}
